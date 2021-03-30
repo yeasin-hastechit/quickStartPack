@@ -4,7 +4,8 @@
   "description": "Adtron - Responsive Bootstrap 4 Admin Template",
   "main": "gulpfile.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "gulp",
+	"clean": "gulp clean"
   },
   "author": "Hastech",
   "license": "ISC",
